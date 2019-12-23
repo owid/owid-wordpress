@@ -13,7 +13,7 @@
     "@wordpress/scripts": "6.0.0"
   },
   "dependencies": {
-    "downshift": "3.4.8",
+    "downshift": "4.0.0",
     "entities": "2.0.0",
     "match-sorter": "4.0.2"
   }
