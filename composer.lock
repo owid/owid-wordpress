@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "008b5f2d6b805e25406d523c7d277915",
+    "content-hash": "767e5f4843381ebb5528953e42ab8c79",
     "packages": [
         {
             "name": "composer/installers",
@@ -277,8 +277,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2",
-                "reference": "5.3.2"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -967,15 +966,15 @@
         },
         {
             "name": "wpackagist-plugin/simple-history",
-            "version": "2.33",
+            "version": "2.33.2",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/simple-history/",
-                "reference": "tags/2.33"
+                "reference": "tags/2.33.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/simple-history.2.33.zip"
+                "url": "https://downloads.wordpress.org/plugin/simple-history.2.33.2.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
