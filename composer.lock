@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8c894ad7e8fbaf80a37baac8518783fe",
+    "content-hash": "c5a1dae3af25e387f673ab7b15b9d3f1",
     "packages": [
         {
             "name": "composer/installers",
@@ -279,8 +279,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2",
-                "reference": "5.3.2"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -884,7 +883,7 @@
         },
         {
             "name": "wpackagist-plugin/redirection",
-            "version": "4.7",
+            "version": "4.7.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/redirection/",
@@ -892,7 +891,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/redirection.zip?timestamp=1581750837"
+                "url": "https://downloads.wordpress.org/plugin/redirection.zip?timestamp=1584192505"
             },
             "require": {
                 "composer/installers": "~1.0"
