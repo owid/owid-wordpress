@@ -54,7 +54,7 @@
     "wp-graphql/wp-graphql": "0.7.1",
     "wpackagist-plugin/add-category-to-pages": "1.2",
     "wpackagist-plugin/admin-starred-posts": "2.5",
-    "wpackagist-plugin/broken-link-checker": "1.11.11",
+    "wpackagist-plugin/broken-link-checker": "1.11.12",
     "wpackagist-plugin/co-authors-plus": "3.4.2",
     "wpackagist-plugin/mailgun": "1.7.1",
     "wpackagist-plugin/my-default-post-content": "0.7",

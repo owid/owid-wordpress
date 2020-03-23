@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "34178e6d0486eaa91b732739c65bd169",
+    "content-hash": "6e9a00e0d24c6b43b509afaa86f60d1f",
     "packages": [
         {
             "name": "composer/installers",
@@ -279,8 +279,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2",
-                "reference": "5.3.2"
+                "url": "https://api.github.com/repos/WordPress/WordPress/zipball/5.3.2"
             },
             "require": {
                 "php": ">=5.3.2",
@@ -758,15 +757,15 @@
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",
-            "version": "1.11.11",
+            "version": "1.11.12",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/broken-link-checker/",
-                "reference": "tags/1.11.11"
+                "reference": "tags/1.11.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.11.zip"
+                "url": "https://downloads.wordpress.org/plugin/broken-link-checker.1.11.12.zip"
             },
             "require": {
                 "composer/installers": "~1.0"
