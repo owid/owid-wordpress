@@ -72,7 +72,7 @@
     "wpackagist-plugin/enable-media-replace": "3.3.12"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "3.5.4",
+    "squizlabs/php_codesniffer": "3.5.5",
     "roave/security-advisories": "dev-master"
   },
   "config": {
