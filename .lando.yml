@@ -25,7 +25,7 @@ services:
   database-grapher:
     type: mysql
     config:
-      database: .lando/mysql.cnf
+      database: .lando/config/mysql-grapher.cnf
     creds:
       user: grapher
       password: grapher
