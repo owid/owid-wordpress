@@ -1,0 +1,9 @@
+[mysqld]
+
+# Increase memory to speed up imports
+innodb_buffer_pool_size=384M
+innodb_log_file_size=128M
+innodb_log_buffer_size=64M
+
+# Increase max file upload
+max_allowed_packet=64M

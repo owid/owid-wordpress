@@ -24,6 +24,8 @@ services:
     healthcheck:
   database-grapher:
     type: mysql
+    config:
+      database: .lando/config/mysql-grapher.cnf
     creds:
       user: grapher
       password: grapher
