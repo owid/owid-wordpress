@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4c8eacabab5d72bd59eae7089e7dea2c",
+    "content-hash": "804f2725cd3a47e67470dd6fe3a805e7",
     "packages": [
         {
             "name": "composer/installers",
@@ -896,6 +896,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/admin-starred-posts/"
+        },
+        {
+            "name": "wpackagist-plugin/auth0",
+            "version": "4.1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/auth0/",
+                "reference": "tags/4.1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/auth0.4.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/auth0/"
         },
         {
             "name": "wpackagist-plugin/broken-link-checker",

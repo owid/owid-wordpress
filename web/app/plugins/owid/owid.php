@@ -186,6 +186,12 @@ function remove_automatic_excerpt($excerpt)
 
 add_filter('the_excerpt', __NAMESPACE__ . '\remove_automatic_excerpt');
 
+function custom_return_to_auth0()
+{
+	return wp_login_url();
+}
+add_filter('auth0_slo_return_to', __NAMESPACE__ . '\custom_return_to_auth0');
+
 /*
  * Post update hook to trigger background baking
  */
