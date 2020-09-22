@@ -1,3 +1,5 @@
+:warning: [DEPRECATED] Development has moved to [a new repository](https://github.com/owid/owid-grapher). :warning:
+
 # Our World in Data - Headless Wordpress
 
 ## Stack
